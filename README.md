@@ -27,6 +27,7 @@ Which performance indicators remain stable predictors across seasons, and which 
 How sensitive are predictive models to feature selection and preprocessing choices?
 
 METHODS
+
 Feature Engineering
 
 Domain-specific features capturing shooting efficiency, rebounding, turnovers, fouls, and efficiency ratings
